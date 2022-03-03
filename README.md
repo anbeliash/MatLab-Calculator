@@ -1,1 +1,1 @@
-# MatLab-Calculator
+# GUI Calculator
